@@ -1,1 +1,0 @@
-y=msgbox("Instalación completa, se ha creado un acceso directo en el escritorio",64+0,"¿Quién Quiere ser Millonario?")
